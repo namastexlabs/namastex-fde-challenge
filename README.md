@@ -4,7 +4,7 @@ Bem-vindo(a)! Este é um teste **take-home** que espelha o trabalho real de um F
 (Forward Deployed Engineer) na Namastex: subir um **agente de verdade**, conectado a
 sistemas que nem sempre colaboram, em cima de **dados bagunçados do mundo real**.
 
-> ⏱️ **Tempo:** ~2 dias de relógio. **Espera-se que você use AI coding tools**
+> ⏱️ **Tempo:** ~3 dias de relógio. **Espera-se que você use AI coding tools**
 > (Claude Code, Cursor, etc.) — isso é a régua aqui, não trapaça. A gente quer ver
 > você orquestrando IA pra entregar com qualidade e velocidade.
 
